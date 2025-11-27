@@ -8,6 +8,13 @@
     "allowOffline": true
   },
   {
+    "id": "ca82d21329a102f6",
+    "username": "Rudra",
+    "password": "12345",
+    "expiresAt": "2025-11-30",
+    "allowOffline": true
+  },
+  {
     "id": "4736a5a4a884555e",
     "username": "manup",
     "password": "12345",
