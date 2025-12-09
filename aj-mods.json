@@ -8,6 +8,13 @@
     "allowOffline": true
   },
   {
+    "id": "ce96b0af77f019a8",
+    "username": "dev",
+    "password": "1234",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "9e14f36d9bd68bcc",
     "username": "zoham",
     "password": "12345",
