@@ -22,13 +22,6 @@
     "allowOffline": true
   },
   {
-    "id": "45612eeb4e635e0d",
-    "username": "Altaf",
-    "password": "1234",
-    "expiresAt": "2025-12-16",
-    "allowOffline": true
-  },
-  {
     "id": "ad9c8403047ed9c8",
     "username": "Speed",
     "password": "Annyxpai",
@@ -71,20 +64,6 @@
     "allowOffline": true
   },
   {
-    "id": "9e14f36d9bd68bcc",
-    "username": "zoham",
-    "password": "12345",
-    "expiresAt": "2025-12-1",
-    "allowOffline": true
-  },
-  {
-    "id": "7a89b87ad3f78993",
-    "username": "ankit6161",
-    "password": "12345",
-    "expiresAt": "2025-12-13",
-    "allowOffline": true
-  },
-  {
     "id": "966c49502c407895",
     "username": "gagang",
     "password": "gagang",
@@ -99,46 +78,10 @@
     "allowOffline": true
   },
   {
-    "id": "fe91b16d13773524",
-    "username": "Rudra",
-    "password": "12345",
-    "expiresAt": "2025-11-2",
-    "allowOffline": true
-  },
-  {
-    "id": "9c56a3f2529fca23",
-    "username": "Luffy99",
-    "password": "Luffy@998",
-    "expiresAt": "2025-12-8",
-    "allowOffline": true
-  },
-  {
-    "id": "4736a5a4a884555e",
-    "username": "manup",
-    "password": "12345",
-    "expiresAt": "2025-11-30",
-    "allowOffline": true
-  },
-  {
     "id": "2bdb058c65963c39",
     "username": "PRATYUSH",
     "password": "12345",
     "expiresAt": "2025-12-30",
-    "allowOffline": true
-  },
-  {
-    "id": "8d9589a20b99e8c6",
-    "username": "salman",
-    "password": "12345",
-    "expiresAt": "2025-12-3",
-    "allowOffline": true
-  },
-
-  {
-    "id": "645832fcd45313cd",
-    "username": "AJ",
-    "password": "AJ",
-    "expiresAt": "2025-12-16",
     "allowOffline": true
   },
   {
