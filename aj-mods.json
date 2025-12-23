@@ -8,13 +8,6 @@
     "allowOffline": true
   },
   {
-    "id": "9df66907871a11e9",
-    "username": "Rahul",
-    "password": "1234",
-    "expiresAt": "2025-12-24",
-    "allowOffline": true
-  },
-  {
     "id": "4736a5a4a884555e",
     "username": "Manu",
     "password": "1234",
@@ -43,13 +36,6 @@
     "allowOffline": true
   },
   {
-    "id": "823d93eee931f332",
-    "username": "Scooby",
-    "password": "1234",
-    "expiresAt": "2025-12-23",
-    "allowOffline": true
-  },
-  {
     "id": "ad9c8403047ed9c8",
     "username": "Speed",
     "password": "Annyxpai",
@@ -75,13 +61,6 @@
     "username": "bunny",
     "password": "1234",
     "expiresAt": "2026-1-10",
-    "allowOffline": true
-  },
-  {
-    "id": "93edb6b7ddc74465",
-    "username": "ankit",
-    "password": "1234",
-    "expiresAt": "2025-12-22",
     "allowOffline": true
   },
   {
