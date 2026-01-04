@@ -33,7 +33,7 @@
     "id": "ad9c8403047ed9c8",
     "username": "Speed",
     "password": "Annyxpai",
-    "expiresAt": "2026-1-30",
+    "expiresAt": "2026-1-29",
     "allowOffline": true
   },
   {
@@ -43,13 +43,7 @@
     "expiresAt": "2026-1-13",
     "allowOffline": true
   },
-  {
-    "id": "2f74f46612f53c21",
-    "username": "Fayyaz",
-    "password": "1234",
-    "expiresAt": "2026-1-1",
-    "allowOffline": true
-  },
+
   {
     "id": "530f83cb44d5552b",
     "username": "Vivek",
@@ -97,20 +91,6 @@
     "username": "gagang",
     "password": "gagang",
     "expiresAt": "2026-11-24",
-    "allowOffline": true
-  },
-  {
-    "id": "bcf8564470a1aef3",
-    "username": "monster",
-    "password": "12345",
-    "expiresAt": "2026-1-1",
-    "allowOffline": true
-  },
-  {
-    "id": "2bdb058c65963c39",
-    "username": "PRATYUSH",
-    "password": "12345",
-    "expiresAt": "2025-12-30",
     "allowOffline": true
   },
   {
