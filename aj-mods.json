@@ -23,6 +23,14 @@
   },
 
   {
+    "id": "5ca80724bdcc28ad",
+    "username": "Hacrrr999@",
+    "password": "1234",
+    "expiresAt": "2026-1-15",
+    "allowOffline": true
+  },
+
+  {
     "id": "f1521f0c03f61f25",
     "username": "mz",
     "password": "mz",
